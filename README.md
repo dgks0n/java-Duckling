@@ -2,7 +2,7 @@
 
 This Project includes java wrapper for wit.ai (Duckling).
 ==================================================================================
-[Note: duckling jar is already in resourse folder,if you want your own follow steps below]
+[Note: duckling jar is already in resource folder,if you want your own follow steps below]
 
 Steps to follow:
 1.  Duckling library is written in clojure, to convert it into jar you need to download its library from githubrepo: https://github.com/wit-ai/duckling
